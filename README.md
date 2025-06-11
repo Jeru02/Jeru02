@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/5b06d1bf-3468-404c-8bcf-33f529918b29)
+
 # 💫 About Me:
 Recent Computer Science graduate with experience in full-stack Web dev.
 
