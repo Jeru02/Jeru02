@@ -2,6 +2,7 @@
 
 # 💫 About Me:
 Recent Computer Science graduate with experience in full-stack Web dev.
+Currently Working as a Backend Engineer at Papaya
 
 
 ## 🌐 Socials:
